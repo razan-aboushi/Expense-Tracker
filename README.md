@@ -21,7 +21,7 @@ To start using the Expense Tracker app on your local machine, follow these steps
     ```bash
     npm install
 
-2. **Run the Game:**
+2. **Run the Expense Tracker:**
     - Start the development server:
 
     ```bash
