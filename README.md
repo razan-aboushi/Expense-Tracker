@@ -4,7 +4,7 @@ The Expense Tracker is a straightforward app designed to help users manage their
     - The Expense Tracker is built on the React library and utilizes the Next.js framework for a smooth and efficient user experience.
 
 2. **TypeScript:**
-    - TypeScript, a statically-typed superset of JavaScript, is employed to enhance code readability and maintainability.
+    - TypeScript, a statically typed superset of JavaScript, is employed to enhance code readability and maintainability.
 
 3. **CSS3:**
     - The visual styling of the app is achieved using CSS3, providing an appealing and user-friendly interface.
@@ -28,4 +28,4 @@ To start using the Expense Tracker app on your local machine, follow these steps
     npm run dev
 
 3. **Open in Browser:**
-    - Visit [http://localhost:3000](http://localhost:3000) in your web browser to play the Memory Game.
+    - Visit [http://localhost:3000](http://localhost:3000) in your web browser.
